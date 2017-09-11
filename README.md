@@ -19,7 +19,7 @@ The example data is big_topo2.zip
 
 Execution
 
-unzip the data ( tradeoff_big.zip , data is big_topo2.zip )
+unzip the data ( tradeoff_big.zip , big_topo2.zip )
 
 For tradeoff experiment :
 
