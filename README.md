@@ -4,11 +4,13 @@ Time efficient energy aware routing in software defined networking
 Description
 
 Part1 : Tradeoff between energy saving and load balancing
+
 TEAR.cpp is for the trade-off experiment which shows that adjusting the value of gamma and beta can control energy saving and load balancing.
 
 The example data is tradeoff_big.zip.
 
 Part2 : Performance experiment
+
 TEAR_for_compare.cpp is for comparing ORPEAR and original shortest path to see four metrics performance : 
 1. processing time  2. power saving   3. The number of link state change  4. The number of rule installation cost
 
