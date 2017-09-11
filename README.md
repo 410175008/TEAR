@@ -18,14 +18,19 @@ The example data is big_topo2.zip
 
 
 Execution
+
 unzip the data ( tradeoff_big.zip , data is big_topo2.zip )
 
 For tradeoff experiment :
+
 >> g++ -std=c++11 -g -o TEAR TEAR.cpp
+
 For performance experiment :
+
 >> g++ -std=c++11 -g -o TEAR_for_compare TEAR_for_compare.cpp
 
 Note:
+
 Both ORPEAR and SP algorithm can be chosen in TEAR.cpp,TEAR_for_compare.cpp for executing.
 The example data is just the part of evaluation in the paper, if you want the complete data
 you can contact jimmyw86878@gmail.com.
